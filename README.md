@@ -27,9 +27,9 @@ To run this script:
 7. In additon, user could change the sample dataset containing different patient ids with similar info and run the code to see the results. User could also explore more plotly charts and visualizations to represent the data.
 8. The images of the dashboard are in the *Images* folder for reference.
 
-! [Dashboard] (belly-button-challenge/Images/Dashboard.png)
+![Dashboard](belly-button-challenge/Images/Dashboard.png)
 
-! [Bubble_Chart] (belly-button-challenge/Images/Bubble_chart.png)
+![Bubble_Chart](belly-button-challenge/Images/Bubble_chart.png)
 
 ---
 ## Credits
